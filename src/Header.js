@@ -4,7 +4,7 @@ function Header() {
   return (
     <div>
       <header className='header'>
-      <img src={require('../src/images/Rectangle.png')} alt="person" className="profile-photo" />
+      <img src={require('../src/images/Aziz.JPG')} alt="person" className="profile-photo" />
       <div className='info'>
         <h1>Aziz Jatoi</h1>
         <p className='profession'>Frontend Deveoloper</p>
