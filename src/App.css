@@ -9,7 +9,9 @@ body {
     font-family: 'Inter';
     line-height: 1.5;
 }
-
+a {
+    text-decoration: none;
+}
 img {
     margin: auto;
     display: block;
